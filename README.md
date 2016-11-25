@@ -5,3 +5,7 @@ Using Successor Representation as a Reinforcement Learning framework approach on
 # Installing Torch:
 
 Follow instructions from : http://torch5.sourceforge.net/manual/Install-2-4.html
+
+# Dependencies for Doom :
+
+Follow commands from : https://github.com/Marqt/ViZDoom/blob/master/doc/Building.md#windows
